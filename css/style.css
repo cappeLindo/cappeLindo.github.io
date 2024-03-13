@@ -70,8 +70,8 @@ h3 {
     background-color:#231F20;
     transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
     align-items: center;
-    width: 24.8%;
-    height: 70px;
+    width: 24%;
+    height: 60px;
     border-color: black;
     
     
@@ -123,7 +123,7 @@ footer {
     margin-top: 1em;
     padding: 1em;
     background-color:#231F20 ;
-    height: 300px;
+    height: 250px;
     color: aliceblue;
     text-align: center;
 
@@ -136,7 +136,7 @@ footer {
 
 .logo{
     height: 80px;
-    width: 94%;
+    width: 91%;
     display: flex;
     background-color:#231F20;
     margin: auto;
