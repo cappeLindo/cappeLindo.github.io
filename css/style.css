@@ -18,16 +18,11 @@ body{
     
 }
 
-
-
 #ford {
     position: relative;
     height: 40%;
     left: 25%;
 }
-
-
-    
 
 #korolla {
     width: 800px;
@@ -68,8 +63,7 @@ body{
     
     
     margin-right: 50px;
-    
-    
+   
 }
 #container-botoes {
     display: flex;
@@ -137,10 +131,6 @@ footer {
     text-align: center;
     border-radius: 15px;
     
-    
-    
-    
-
 }
 
 #text {
@@ -156,16 +146,9 @@ footer {
     justify-content: center;
     margin-top: 0px;
     right: 20px;
-    border-radius: 5px;
+    border-radius: 15px;
     margin-bottom: 50px;
 
-    
-    
-
-    
-    
-    
-    
 }
 
 .selecao{
@@ -173,16 +156,12 @@ footer {
     padding: 18px;
 }
 
-
 h6{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     font-size: 40px;
     color: black;
 }
-
-
-
 
 .corolla{
     width: 800px;
@@ -206,5 +185,10 @@ h6{
 nav.menu{
     width: 300px;
     height: 100%;
-    background-color: #231F20;
+    display: flex;
+    font-size: 30px;
+    color: black;
+    position: relative;
+    left: 65%;
+    bottom: 105px;
 }
