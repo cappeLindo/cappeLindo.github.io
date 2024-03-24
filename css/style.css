@@ -49,7 +49,7 @@ body{
     border: solid 2px gray;
     border-radius: 13px;
     color: white;
-    background-color:#231F20;
+    background-color:black;
     transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
     align-items: center;
     width: 200px;
@@ -125,28 +125,29 @@ h5{
 footer {
     margin-top: 4em;
     padding: 1.7em;
-    background-color:#231F20 ;
-    height: 320px;
+    background-color:black ;
+    height: 250px;
     color: aliceblue;
     text-align: center;
     border-radius: 15px;
+    
     
 }
 
 #text {
     color: white;
     text-align: center;
+    bottom: 20px;
 }
 
 .logo{
     height: 100px;
     width:100%;
     display: flex;
-    background-color:#231F20;
+    background-color:black;
     justify-content: center;
-    margin-top: 0px;
     right: 20px;
-    border-radius: 15px;
+    border-radius: 5px;
     margin-bottom: 50px;
 
 }
@@ -165,30 +166,6 @@ h6{
 
 .corolla{
     width: 800px;
-    padding: 40px;
-    
+    padding: 40px;  
 }
 
-.hr{
-    border-color: black;
-    padding: 1px;
-    color: #231F20;
-    position: relative;
-    border-radius: 10px;
-    background-color: #231F20;
-    width: 98%;
-    height:1px;
-    border: none;
-    
-}
-
-nav.menu{
-    width: 300px;
-    height: 100%;
-    display: flex;
-    font-size: 30px;
-    color: black;
-    position: relative;
-    left: 65%;
-    bottom: 105px;
-}
