@@ -14,7 +14,7 @@ p{
     
 }        
 body{
-    color: whitesmoke;
+    background-color: whitesmoke;
     
 }
 
@@ -130,6 +130,7 @@ footer {
     color: aliceblue;
     text-align: center;
     border-radius: 15px;
+    margin-top: 5.5%;
     
     
 }
